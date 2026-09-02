@@ -1,0 +1,23 @@
+student = {"name":"vikas"}
+student["name"]
+'vikas'
+student["age"]
+student["age"] =23
+student
+{'name': 'vikas', 'age': 23}
+student["age"] = 22
+student
+{'name': 'vikas', 'age': 22}
+del student ["age"]
+student
+{'name': 'vikas'}
+len(student)
+1
+sorted(student)
+['name']
+min(student)
+'name'
+max(student)
+'name'
+student.copy()
+{'name': 'vikas'}
