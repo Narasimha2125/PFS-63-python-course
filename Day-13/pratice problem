@@ -1,0 +1,135 @@
+num = 5
+if num > 0:
+    print("the number is positive")
+elif num < 0:
+    print("the number is negative")
+else:
+    print("zero")
+
+
+num = int(input("Enter a number: "))
+if num % 2 == 0:
+    print("Even number")
+else:
+    print("Odd number")
+
+
+num  = int(input("enter the number: "))
+if num % 5 == 0:
+    print("the number is divisible by 5")
+else:
+    print("the number is not divisible by 5")
+
+
+
+num = int(input("enter the number: "))
+if num % 3 == 0 and num % 7 == 0:
+    print("the number is divisible by both 3 and 7 ")
+else:
+    print("the number is not divisible by both 3 and 7 ")
+
+
+
+num = int(input("enter the year: "))
+if num % 4 == 0 and num % 100 != 0:
+    print("the year is aleap year")
+elif num % 400 == 0:
+    print("the year is not a leap year:")
+else:
+    print("the year is not a leap year")
+
+
+
+num = int(input("enter the marks: "))
+if num >= 35:
+    print("pass")
+else:
+    print('fail')
+
+
+
+num = int(input("enter the number:"))
+if num >= 100 and num <=999:
+    print("the number is three digit number")
+else:
+    print("the number is not three digit number")
+
+
+
+char= input("enter the character: ")
+if char in "aeiou":
+    print("the character is a vowel")
+else:
+    print("the character is not a vowel")
+
+
+
+num = int(input("enter the number: "))
+if num > 7 and num > 9:
+    print("the number is greater than 7 and 9 ")
+else:
+    print("the number is not greater than 7 and 9 ")
+
+num = int(input("enetr the number"))
+if num < 3 and num < 8:
+    print("the number is smaller than 3 and 8")
+else:
+    print("the number is not smaller than 3 and 8") 
+
+
+num = int(input("enter the number: "))
+if num == 0:
+    print("the is zero")
+else:
+    print("enter the number is not zero")
+
+
+
+num = int(input("enter the number: "))
+if num % 10 == 0:
+    print("the number is multiple of 10")
+else:
+    print("the number is not multiple of 10")
+
+
+
+num = int(input("enter the age: "))
+if num >= 18:
+    print("the person is eligible for voter")
+else:
+    print("the person is not eligible for voter:")
+
+
+
+num = int(input("enter the number: "))
+if num > 1 and num < 100:
+    print("the number is between 1 and 100")
+else:
+    print("the number is not between 1 and 100")
+
+
+
+
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+if num1 == num2 ** 2:
+    print(f"{num1} is square of {num2}")
+else:
+    print(f"{num1} is not square of {num2}")
+
+
+
+str1 = input("enter the first string: ")
+str2 = input("enter the second string: ")
+if str1 == str2:
+    print("the strings are equal")
+else:
+    print("the strings are not equal")
+
+
+
+
+
+
+
+
