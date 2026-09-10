@@ -1,0 +1,78 @@
+1. Why do we need OOP instead of Procedural Programming?
+
+Object-Oriented Programming (OOP) is used to organize large and complex programs more efficiently. 
+Procedural programming mainly focuses on functions and the sequence of operations, while OOP focuses on objects that combine data and behavior.
+OOP provides features such as encapsulation, inheritance, polymorphism, and abstraction, which improve code reusability, security, 
+maintainability, and organization. Procedural programming is still useful for small and simple programs, 
+but OOP is generally more suitable for large-scale applications.
+
+============================================================================================================================================================================================
+
+2. What is a Class?
+A class is a blueprint or template used to create objects. It defines the properties (data) and behaviors (methods) that the objects 
+created from it can have.
+
+For example, a Student class can define properties such as name, age, and marks, and behaviors such as studying or attending exams.
+
+============================================================================================================================================================================================
+
+3. What is an Object?
+An object is an instance of a class. It is a real entity created from the class and contains its own data while having access to the 
+behaviors defined by the class.
+
+For example, if Student is a class, then individual students such as Bharat and Rahul can be represented as objects.
+
+============================================================================================================================================================================================
+
+4. What is Encapsulation? — Instagram Example
+Encapsulation is the process of combining data and the methods that operate on that data into a single unit, usually a class. 
+It also provides controlled access to the data.
+
+Instagram example:
+In an Instagram-like application, a user's account contains sensitive information such as a password, email, and account details.
+Users should not be able to directly modify this sensitive data. Instead, Instagram provides controlled operations such as Change Password or Update Email.
+Therefore, the internal account data is protected while specific operations are provided to interact with it.
+
+============================================================================================================================================================================================
+
+5. What is Inheritance? — YouTube Example
+Inheritance is an OOP concept where a child class acquires the properties and methods of a parent class.
+It allows us to reuse existing functionality instead of writing the same code again.
+
+YouTube example:
+YouTube can have a general User with common functionalities such as logging in, watching videos, and managing a profile.
+A Creator can inherit these common functionalities and additionally have features such as uploading videos, creating playlists, and managing a channel.
+Thus, inheritance allows the Creator to reuse the common functionality of the User while adding its own specialized functionality.
+
+============================================================================================================================================================================================
+
+6. What is Polymorphism? — YouTube Example
+Polymorphism means "many forms." It allows the same method or interface to behave differently depending on the object using it.
+
+YouTube example:
+YouTube has different types of content such as:
+
+Normal videos
+YouTube Shorts
+Live streams
+
+All of these can have a common operation such as play. However, the way each type of content is played can be different.
+A normal video may play like a regular video, a Short may use vertical short-form playback, and a live stream may provide real-time streaming.
+So, the same operation—play—can have different behaviors.
+
+============================================================================================================================================================================================
+
+7. What is Abstraction?
+Abstraction is the process of hiding complex implementation details and showing only the essential functionality to the user.
+
+ATM example:
+When we use an ATM, we simply select options such as Withdraw Money or Check Balance.
+We don't need to know the internal processes such as:
+
+Authentication
+Database communication
+Balance verification
+Transaction processing
+Updating the bank account
+
+These complex operations are hidden from the user.
