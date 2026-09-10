@@ -1,0 +1,42 @@
+1. What is Data Analysis?
+
+Data Analysis is the process of collecting, cleaning, organizing, analyzing, and interpreting data to find useful information,
+patterns, and insights.
+
+Formula:
+Raw Data → Cleaning → Analysis → Insights → Decision Making
+
+2. Why Do We Need Data Analysis?
+Data analysis is important because raw data alone is difficult to understand and use.
+
+Main purposes:
+Better Decision Making
+Helps organizations make decisions based on data instead of guesses.
+Identify Patterns and Trends - Helps find changes and trends in data.
+Example: Sales increase every weekend.
+Find Problems - Helps identify errors, unusual activities, or poor performance.
+Understand Customers - Helps businesses understand customer behavior, preferences, and needs.
+Improve Performance - Shows which areas are performing well and which need improvement.
+Reduce Costs - Helps identify unnecessary expenses and inefficient processes.
+Increase Profit - Helps companies identify profitable products, customers, and strategies.
+Predict Future Outcomes - Historical data can be used to predict future trends.
+Example: Predicting next month's sales.
+
+
+==============================================================================================================
+
+Types of Data Analysis – Simple Definitions
+
+There are 4 main types of data analysis:
+
+1. Descriptive Analysis - It tells us what happened in the past or what is happening now.
+Example: Sales were ₹50,000 last month.
+
+2. Diagnostic Analysis - It tells us why something happened.
+Example: Sales decreased because fewer customers purchased products.
+
+3. Predictive Analysis - It tells us what is likely to happen in the future.
+Example: Sales may increase next month.
+
+4. Prescriptive Analysis - It tells us what action we should take.
+Example: We should increase advertising to improve sales.
